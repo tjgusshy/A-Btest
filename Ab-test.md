@@ -249,7 +249,7 @@ this result agrees with our hypothesis test.
     A(113).
 
 -   After carrying out hypothesis test, the result showed that the
-    difference between the conversion rate are not due to mere chances
+    difference between the conversion rate is not due to mere chance,
     and are statistically different.
 
 -   WE are 95% confident that conversion rate for A is lower than the
