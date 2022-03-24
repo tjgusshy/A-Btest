@@ -22,10 +22,32 @@ It is controlled because we have a control group and a treatment group, where th
 
 To put this all together, in the context of a web page design, users will be randomly sampled and randomly assigned treatment by splitting into the control and the treatment groups. The control group would see the original version of the page, and the treatment group will see the new design.
 
-For this project, there will be three sections, which includes:
+For this project, there will be four sections, which includes:
 
 Explanatory analysis
 
 statistical analysis
 
-Then give recommendation
+Observations
+
+Recommendation
+
+
+### Observations
+
+The new webpage amassed more visitors and more conversion rate than the old webpage.
+
+Both webpage had a total visitors of 1451.
+
+We had more unconverted(1394) visits than converted visits(57) for both webpage or variants
+
+Length of stay for B(125) is higher than the length of stay for A(113).
+
+After carrying out hypothesis test, the result showed that the difference between the conversion rate is not due to mere chance, and are statistically different.
+
+WE are 95% confident that conversion rate for A is lower than the conversion rate of B.
+
+### Recommendation
+
+The organisation can go ahead and change the webpage to the new one,as this will bring in more customers for the organisation and will result in more revenue.
+
